@@ -1,8 +1,8 @@
 interface ProjectCardProps {
   title: string;
   description: string;
-  mediaUrl: string;  // renamed from gifUrl
-  githubUrl: string;
+  mediaUrl: string;  
+  githubUrl?: string;
 }
 
 const isVideo = (url: string) => {
