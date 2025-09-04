@@ -1,5 +1,11 @@
 export const projects = [
   {
+    title: 'Hybrid Engine Control System',
+    description: 'The V2 control system for CuInSpaces 2025 Hybrid Rocket Engine',
+    mediaUrl: '/hysim.webm', 
+    githubUrl: 'https://github.com/CarletonURocketry/hysim'
+  },
+  {
     title: 'Artificial Life',
     description: 'A physics based particle simulation that models artificial life',
     mediaUrl: '/artificial_life.webm', 
@@ -10,12 +16,6 @@ export const projects = [
     description: 'A minimalistic typing platform with algorithmic improvements and multiplayer support',
     mediaUrl: '/typemeup.webm', 
     githubUrl: 'https://github.com/bskdany/typemeup'
-  },
-  {
-    title: 'Hybrid Engine Control System',
-    description: 'The control system for the 2025 Launch Canada Hybrid Engine from CuInSpace',
-    mediaUrl: '/hysim.webm', 
-    githubUrl: 'https://github.com/CarletonURocketry/hysim'
   },
   {
     title: 'Twitter Crypto Sniper',
