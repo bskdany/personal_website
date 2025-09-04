@@ -1,9 +1,15 @@
 export const projects = [
   {
     title: 'Hybrid Engine Control System',
-    description: 'The V2 control system for CuInSpaces 2025 Hybrid Rocket Engine',
+    description: 'The V2 control system for CuInSpace\'s 2025 Hybrid Rocket Engine',
     mediaUrl: '/hysim.webm', 
     githubUrl: 'https://github.com/CarletonURocketry/hysim'
+  },
+  {
+    title: 'Stop Being Cooked',
+    description: 'A system to block short form video content by analysing network packets',
+    mediaUrl: '/StopBeingCooked.webm', 
+    githubUrl: 'https://github.com/bskdany/StopBeingCooked'
   },
   {
     title: 'Artificial Life',
