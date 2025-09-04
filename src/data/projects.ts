@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Hybrid Engine Control System',
     description: 'The V2 control system for CuInSpace\'s 2025 Hybrid Rocket Engine',
-    mediaUrl: '/hysim.webm', 
+    mediaUrl: '/hysim1.webm', 
     githubUrl: 'https://github.com/CarletonURocketry/hysim'
   },
   {
