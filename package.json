@@ -6,7 +6,7 @@
   "homepage": "https://bskdany.github.io/personal_website",
   "scripts": {
     "dev": "vite",
-    "predeploy`": "tsc -b && vite build",
+    "predeploy": "tsc -b && vite build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
