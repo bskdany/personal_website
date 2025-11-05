@@ -16,6 +16,14 @@ export const AboutSection = () => {
             GitHub
           </a>
           <a 
+            href="https://x.com/bskdany" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="text-gray-700 hover:text-black transition-colors"
+          >
+            Twitter 
+          </a>
+          <a 
             href="https://linkedin.com/in/danielbyshkin" 
             target="_blank" 
             rel="noopener noreferrer"
