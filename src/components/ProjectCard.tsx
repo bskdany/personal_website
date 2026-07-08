@@ -37,7 +37,7 @@ export const ProjectCard = ({ title, description, mediaUrl, githubUrl }: Project
       </div>
       <div className="p-4">
         <h3 className="text-gray-700 text-md left-0">{title}</h3>
-        <p className="text-gray-600 text-sm">{description}</p>
+        <p className="text-gray-600 text-sm whitespace-pre-line">{description}</p>
       </div>
     </a>
   );
